@@ -1,1 +1,3 @@
-# Agile_presentation
+# SupreAgile
+
+Regardin, Carpi Lapi, Senger, Sengler
