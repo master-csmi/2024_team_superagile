@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1706637022 "/home/pa/SuperAgile/main.tex" "main.pdf" "main" 1706637023 0
-  "/home/pa/SuperAgile/main.tex" 1706637022 1289 b8ecf3eed56b7918220975a3f4253ccf ""
+["pdflatex"] 1706640969 "/home/pa/SuperAgile/main.tex" "main.pdf" "main" 1706640970 0
+  "/home/pa/SuperAgile/main.tex" 1706640968 1248 fa2424462cd3a981a59fbf7f1d635c72 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1704400182 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmss10.tfm" 1704400182 1316 b636689f1933f24d1294acdf6041daaa ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmss12.tfm" 1704400182 1324 37b971caf729d7edd9cbb9f9b0ea76eb ""
@@ -174,10 +174,10 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1706197783 4482925 a1a254cacf5c7108f7b28226c8f3b19f ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1706197758 6768050 c7fc5e5b890338411d4c907114d09ca5 ""
   "logo_Uni.png" 1706633691 36331 e1ad338a284be715754c7ff3e09aecc5 ""
-  "main.aux" 1706637023 1731 2bd18ebaeb3e24c390ce0e9f30482582 "pdflatex"
-  "main.nav" 1706637023 835 b5c49ba28d3d2049d1773682fb2767a8 "pdflatex"
-  "main.out" 1706637023 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1706637022 1289 b8ecf3eed56b7918220975a3f4253ccf ""
+  "main.aux" 1706640970 1731 2bd18ebaeb3e24c390ce0e9f30482582 "pdflatex"
+  "main.nav" 1706640970 835 b5c49ba28d3d2049d1773682fb2767a8 "pdflatex"
+  "main.out" 1706640969 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1706640968 1248 fa2424462cd3a981a59fbf7f1d635c72 ""
   "waterfall_agile.png" 1706636906 206049 9d65dbf52dd9925125e8532a4a44852f ""
   (generated)
   "main.aux"
