@@ -1250,6 +1250,11 @@ INPUT ./logo_Uni.png
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT ./waterfall_agile.png
+INPUT ./waterfall_agile.png
+INPUT waterfall_agile.png
+INPUT ./waterfall_agile.png
+INPUT ./waterfall_agile.png
 OUTPUT main.nav
 OUTPUT main.toc
 OUTPUT main.snm
