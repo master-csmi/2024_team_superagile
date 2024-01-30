@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.25)  30 JAN 2024 11:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.25)  30 JAN 2024 12:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/home/pa/CSMI/S2/Projet/Beamer Metropolis Theme - NCState Version/demo.tex"
-(/home/pa/CSMI/S2/Projet/Beamer Metropolis Theme - NCState Version/demo.tex
+**/home/pa/SuperAgile/Agile_presentation.tex
+(/home/pa/SuperAgile/Agile_presentation.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/share/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2023/02/20 v3.69 A class for typesetting presentations
@@ -726,8 +726,8 @@ Package: pgfplotsthemetol 2017/01/23 PGFplots colors based on Paul Tol's SRON te
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count369
 \l__pdf_internal_box=\box82
-) (./demo.aux)
-\openout1 = `demo.aux'.
+) (./Agile_presentation.aux)
+\openout1 = `Agile_presentation.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
 LaTeX Font Info:    ... okay on input line 41.
@@ -802,9 +802,9 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 41.
- (./demo.out) (./demo.out)
+ (./Agile_presentation.out) (./Agile_presentation.out)
 \@outlinefile=\write5
-\openout5 = `demo.out'.
+\openout5 = `Agile_presentation.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 41.
@@ -870,7 +870,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 )
 Package pgfplots notification 'compat/show suggested version=true': you might benefit from \pgfplotsset{compat=1.18} (current compat level: 1.9).
 
-(./demo.nav)
+(./Agile_presentation.nav)
 <logo_Uni.png, id=13, 1606.0pt x 291.0875pt>
 File: logo_Uni.png Graphic file (type png)
 <use logo_Uni.png>
@@ -903,28 +903,28 @@ Overfull \vbox (39.39362pt too high) detected at line 45
 
 ]
 \tf@nav=\write6
-\openout6 = `demo.nav'.
+\openout6 = `Agile_presentation.nav'.
 
 \tf@toc=\write7
-\openout7 = `demo.toc'.
+\openout7 = `Agile_presentation.toc'.
 
 \tf@snm=\write8
-\openout8 = `demo.snm'.
+\openout8 = `Agile_presentation.snm'.
 
- (./demo.aux)
-Package rerunfilecheck Info: File `demo.out' has not changed.
+ (./Agile_presentation.aux)
+Package rerunfilecheck Info: File `Agile_presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  35768 strings out of 477985
- 860829 string characters out of 5840058
+ 860983 string characters out of 5840058
  1856388 words of memory out of 5000000
  55284 multiletter control sequences out of 15000+600000
  515000 words of font info for 41 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 128i,13n,122p,1963b,784s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,13n,122p,1929b,784s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on demo.pdf (8 pages, 67889 bytes).
+Output written on Agile_presentation.pdf (8 pages, 67889 bytes).
 PDF statistics:
  86 PDF objects out of 1000 (max. 8388607)
  59 compressed objects within 1 object stream
