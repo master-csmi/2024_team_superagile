@@ -1,15 +1,17 @@
 \documentclass[10pt]{beamer}
+\usepackage{graphicx}
+\usepackage{adjustbox}
 
 \setbeamertemplate{navigation symbols}{}
 
 \usetheme{Boadilla}
-\setbeamercovered{transparent}
+% \setbeamercovered{transparent}
 \usecolortheme[named=red]{structure}
 
 \title[Introduction to Agile Software Development]{
   Introduction to Agile Software Development \\
   \vspace{1cm}
-  \includegraphics[width=0.6\pdfpagewidth]{logo_Uni.png}
+  \includegraphics[width=0.6\pdfpagewidth]{images/logo_Uni.png}
 }
 \author[SuperAgile]{Carpi Lapi, Regardin, Senger, Sengler}
 \date[February 7, 2024]{February 7, 2024}
@@ -36,15 +38,37 @@ Teams follow a cycle of:
 
 \end{frame}
 
-\begin{frame}{Agile VS Waterfall}
-<<<<<<< HEAD
 
-  \includegraphics[width=1\pdfpagewidth]{waterfall_agile.png}
-    
-=======
-    Pierre-Antoine
->>>>>>> origin/main
+\begin{frame}{Agile VS Waterfall}
+  \only<1>{\adjincludegraphics[height=7cm,trim={0 0 0 0},clip]{images/waterfall_agile.png}}
+  
+  \begin{columns}[T]
+    \begin{column}{0.5\textwidth}
+      \only<2>{\adjincludegraphics[height=10cm,trim={0 0 0 3cm},clip]{images/waterfall.png}}
+    \end{column}
+
+    \begin{column}{0.5\textwidth}
+      \begin{itemize}
+        \item<2> Test
+        \item<2> Another test
+      \end{itemize}
+    \end{column}
+  \end{columns}
+
+  \begin{columns}[T]
+    \begin{column}{0.5\textwidth}
+      \begin{itemize}
+        \item<3> Agile Point 1
+        \item<3> Agile Point 2
+      \end{itemize}
+    \end{column}
+
+    \begin{column}{0.5\textwidth}
+      \only<3>{\adjincludegraphics[height=10cm,trim={15cm 0 2cm 5cm},clip]{images/agile.png}}
+    \end{column}
+  \end{columns}
 \end{frame}
+
 
 \begin{frame}{General Agile guideline}
     Marie
@@ -58,7 +82,17 @@ Teams follow a cycle of:
     Antoine
 \end{frame}
 
-\begin{frame}
+\begin{frame}{Conclusion}
+  
+\end{frame}
+
+\begin{frame}{References}
+
+  \begin{itemize}
+    \item https://www.youtube.com/watch?v=goJu-DFGJ0o
+    \item https://www.youtube.com/watch?v=1evfn3qTYGM
+    \item https://project-management.com/agile-project-management/
+  \end{itemize}
   
 \end{frame}
 
