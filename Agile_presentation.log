@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.21)  30 JAN 2024 17:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.21)  30 JAN 2024 17:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -875,12 +875,7 @@ Package pgfplots notification 'compat/show suggested version=true': you might be
 File: logo_Uni.png Graphic file (type png)
 <use logo_Uni.png>
 Package pdftex.def Info: logo_Uni.png  used on input line 44.
-(pdftex.def)             Requested size: 327.77359pt x 59.40681pt.
-
-Overfull \hbox (20.48372pt too wide) in paragraph at lines 44--44
-[][]
- []
-
+(pdftex.def)             Requested size: 254.93564pt x 46.20628pt.
 
 Overfull \vbox (39.39362pt too high) detected at line 44
  []
@@ -928,7 +923,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  128i,13n,122p,1983b,784s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb>
-Output written on Agile_presentation.pdf (8 pages, 81148 bytes).
+Output written on Agile_presentation.pdf (8 pages, 81143 bytes).
 PDF statistics:
  97 PDF objects out of 1000 (max. 8388607)
  66 compressed objects within 1 object stream
