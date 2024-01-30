@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.21)  30 JAN 2024 17:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.21)  30 JAN 2024 18:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -713,6 +713,10 @@ Package pdftex.def Info: logo_Uni.png  used on input line 19.
 
 ] [4
 
+] [5
+
+] [6
+
 ]
 \tf@nav=\write6
 \openout6 = `main.nav'.
@@ -728,18 +732,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21711 strings out of 476025
- 428515 string characters out of 5790016
+ 21719 strings out of 476025
+ 428581 string characters out of 5790016
  1857388 words of memory out of 5000000
- 41716 multiletter control sequences out of 15000+600000
+ 41720 multiletter control sequences out of 15000+600000
  513799 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,122p,453b,464s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on main.pdf (4 pages, 58219 bytes).
+Output written on main.pdf (6 pages, 60386 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
- 9 named destinations out of 1000 (max. 500000)
+ 78 PDF objects out of 1000 (max. 8388607)
+ 53 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
  54 words of extra memory for PDF output out of 10000 (max. 10000000)
 
