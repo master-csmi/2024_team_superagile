@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1706630976 "/Users/giulio/Desktop/MASTER CSMI/M1/Semestre 2/03-Projet/01/SuperAgile/Agile_presentation.tex" "Agile_presentation.pdf" "Agile_presentation" 1706630978 0
-  "/Users/giulio/Desktop/MASTER CSMI/M1/Semestre 2/03-Projet/01/SuperAgile/Agile_presentation.tex" 1706630976 1861 d0587447576991f8b2b1bb88103a03a0 ""
+["pdflatex"] 1706631794 "/Users/giulio/Desktop/MASTER CSMI/M1/Semestre 2/03-Projet/01/SuperAgile/Agile_presentation.tex" "Agile_presentation.pdf" "Agile_presentation" 1706631796 0
+  "/Users/giulio/Desktop/MASTER CSMI/M1/Semestre 2/03-Projet/01/SuperAgile/Agile_presentation.tex" 1706631793 1861 d0587447576991f8b2b1bb88103a03a0 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcss1000.tfm" 1136768653 1536 293044035fd171bb1d18cf655049b101 ""
@@ -251,10 +251,10 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1700559099 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1700558947 7883460 045007d4f772dbcaacceba9ab2c65e02 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "Agile_presentation.aux" 1706630978 1855 a919e2247839d4a8202d7732d4a6a88e "pdflatex"
-  "Agile_presentation.nav" 1706630978 923 02772eacdfe77d67b79e45a640fd18ab "pdflatex"
-  "Agile_presentation.out" 1706630978 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Agile_presentation.tex" 1706630976 1861 d0587447576991f8b2b1bb88103a03a0 ""
+  "Agile_presentation.aux" 1706631796 1855 a919e2247839d4a8202d7732d4a6a88e "pdflatex"
+  "Agile_presentation.nav" 1706631796 923 02772eacdfe77d67b79e45a640fd18ab "pdflatex"
+  "Agile_presentation.out" 1706631795 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Agile_presentation.tex" 1706631793 1861 d0587447576991f8b2b1bb88103a03a0 ""
   "beamercolorthemewolf.sty" 1706630353 944 e5b6edd1721881aff3d511158e425c1c ""
   "logo_Uni.png" 1706630353 36331 e1ad338a284be715754c7ff3e09aecc5 ""
   (generated)
