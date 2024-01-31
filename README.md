@@ -1,4 +1,4 @@
-# Project: Introduction to Agile Software Development
+# Introduction to Agile Software Development
 
 **Authors:**
 - Carpi Lapi (GiulioCrp)
@@ -7,6 +7,8 @@
 - Sengler (MSengler)
 
 **Promo:** M1 CSMI 2024
+
+**Project code name:** SuperAgile
 
 ## Description
 
@@ -24,14 +26,12 @@ To compile the presentation, you need the [FiraCode Font](https://github.com/ton
 ```bash
 lualatex main.tex
 ```
-
 or 
-
 ```bash
 xelatex main.tex
 ```
 
-**Alternatively** you can use [overleaf](https://www.overleaf.com/project) or the VsCode [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) extenstion (you still might need to install TeX Live on your system)
+**Alternatively** you can use [Overleaf](https://www.overleaf.com) or VSCode [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) extension (you still might need to install TeX Live on your system)
 	
 
 
