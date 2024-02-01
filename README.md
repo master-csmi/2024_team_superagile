@@ -12,26 +12,13 @@
 
 ## Description
 
-This repository contains a Beamer LaTeX presentation for a 5 mins introduction to Agile Software Development. The presentation is designed using the Metropolis beamer theme.
-
-## Requirements
-
-To compile the presentation, you need the [FiraCode Font](https://github.com/tonsky/FiraCode/wiki/Installing). The document can be compiled using either `lualatex` or `xelatex`.
+This repository contains a Beamer LaTeX presentation for a 5 mins introduction to Agile Software Development. The presentation is designed using the Copenhagen beamer theme.
 
 ## Usage
 
-1. Ensure you have the FiraCode Font installed on your system.
-2. Compile the presentation using `lualatex` or `xelatex`.
+Compile the presentation using your preferred LaTeX compiler. 
+You can use [Overleaf](https://www.overleaf.com) or VSCode [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) extension.
 
 ```bash
-lualatex main.tex
+pdflatex main.tex
 ```
-or 
-```bash
-xelatex main.tex
-```
-
-**Alternatively** you can use [Overleaf](https://www.overleaf.com) or VSCode [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) extension (you still might need to install TeX Live on your system)
-	
-
-
