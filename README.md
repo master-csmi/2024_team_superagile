@@ -16,7 +16,7 @@ This repository contains a Beamer LaTeX presentation for a 5 mins introduction t
 
 ## Usage
 
-Compile the presentation using your preferred LaTeX compiler. 
+Compile the presentation using your preferred LaTeX compiler.  
 You can use [Overleaf](https://www.overleaf.com) or VSCode [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) extension.
 
 ```bash
