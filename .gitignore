@@ -1,0 +1,15 @@
+# LaTeX compile files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Temporary files
+*.swp
+*.bak
+*~
