@@ -1,7 +1,5 @@
 # Introduction to Agile Software Development
 
-toto is rigolo
-
 **Authors:**
 - Carpi Lapi (GiulioCrp)
 - Regardin (ARegardin)
