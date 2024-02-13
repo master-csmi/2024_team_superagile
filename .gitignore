@@ -10,9 +10,11 @@
 *.fls
 *.nav
 *.snm
-*.pdf
 
 # Temporary files
 *.swp
 *.bak
 *~
+
+# pdf
+*.pdf
