@@ -1,0 +1,25 @@
+name: Compile LaTeX to PDF
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install texlive texlive-latex-extra texlive-fonts-recommended
+
+      - name: Compile LaTeX to PDF
+        run: pdflatex main.tex
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: compiled-pdf
+          path: main.pdf
